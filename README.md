@@ -1,3 +1,3 @@
-#Sega NAOMI
-Fórum Oficial https://segaretro.org/Sega_NAOMI
-
+Fabricante: Sega
+Variantes: Sega NAOMI GD-ROM , Sega NAOMI Multiboard , Sega Dreamcast , Atomiswave , Sega Aurora
+Complementos: GD-ROM
